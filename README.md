@@ -215,3 +215,13 @@ Deployable, scalable web solution
 
 Educational use only.
 Consult certified coaches or medical professionals for injury treatment.
+
+Credits:
+
+Student Name: Sri Prasath. P
+
+Mentor Name: Arul Jothi
+
+Course: Generative A.I
+
+School Name: Jain Vidyalaya IB World School
